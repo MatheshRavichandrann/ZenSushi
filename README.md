@@ -18,6 +18,7 @@ ZenSushi is a modern sushi website that showcases popular food, trending sushi, 
 ## Tech Stack
 - HTML5
 - CSS3
+- JavaScript
 - Vite
 
 ---
