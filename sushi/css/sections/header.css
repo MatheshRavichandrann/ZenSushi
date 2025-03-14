@@ -33,7 +33,9 @@
   font-family: var(--playfair-display);
   color: #fff;
   opacity: 0.8;
+  transition: color 0.8s ease;
 }
+
 
 .header__menu, .header__menu-mobile {
   padding: 20px;
